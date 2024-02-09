@@ -6,7 +6,7 @@ class Arithmetic():
 
     def addition(self):
         """ Adding two variables """
-        self.add = self.a + self.b + 1
+        self.add = self.a + self.b
         return self.add
 
     def subtraction(self):
